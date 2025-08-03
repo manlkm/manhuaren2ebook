@@ -1,5 +1,8 @@
 # manhuaren2ebook
 
+[简体中文](README.zh-CN.md)
+
+
 This is a Python script that downloads all chapters of a specified comic from manhuaren.com and converts each chapter into a separate EPUB e-book.
 
 ## Features
